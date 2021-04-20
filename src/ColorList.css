@@ -1,0 +1,8 @@
+.ColorList a {
+    color: white;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
