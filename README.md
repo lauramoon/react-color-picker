@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Color Factory with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Do you want to see an entire page of a single color? Try this little app!
+
 ## Available Scripts
 
-In the project directory, you can run:
+To use, clone this repo. Then, in the project directory, you can run:
 
 ### `npm start`
 
